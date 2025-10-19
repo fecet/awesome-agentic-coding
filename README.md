@@ -23,9 +23,9 @@ Headless agents for automated code modification, testing, and repository operati
 
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) ![Last Commit](https://img.shields.io/github/last-commit/All-Hands-AI/OpenHands) — Code agent with file editor, shell & browser tools; supports **headless** mode and GH Actions.
 - [SWE-agent](https://github.com/princeton-nlp/SWE-agent) ![Last Commit](https://img.shields.io/github/last-commit/princeton-nlp/SWE-agent) — Issue→patch workflow; strong results on SWE-bench; YAML-configurable batch runs.
-- [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) ![Last Commit](https://img.shields.io/github/last-commit/QwenLM/Qwen-Agent) — General agent framework often used as coding agent; code-interpreter, function-calling & MCP.
+- [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) ![Last Commit](https://img.shields.io/github/last-commit/QwenLM/Qwen-Agent) — Agent framework built on Qwen>=3.0; features Function Calling, MCP, Code Interpreter, RAG & Chrome extension.
 - [Trae-Agent](https://github.com/bytedance/trae-agent) ![Last Commit](https://img.shields.io/github/last-commit/bytedance/trae-agent) — General-purpose SWE agent with CLI, modular tools, multi-model support.
-- [Plandex](https://github.com/plandex-ai/plandex) ![Last Commit](https://img.shields.io/github/last-commit/plandex-ai/plandex) — Terminal-first coding agent for multi-file, multi-step tasks.
+- [Plandex](https://github.com/plandex-ai/plandex) ![Last Commit](https://img.shields.io/github/last-commit/plandex-ai/plandex) — Terminal-first coding agent designed for large projects and real-world tasks.
 - [TraceRoot AI](https://github.com/traceroot-ai/traceroot) ![Last Commit](https://img.shields.io/github/last-commit/traceroot-ai/traceroot) — Agents that help triage/fix production bugs from traces/logs to PRs.
 - [DeepCode](https://github.com/HKUDS/DeepCode) ![Last Commit](https://img.shields.io/github/last-commit/HKUDS/DeepCode) — Multi-agent Paper2Code / Text2Web / Text2Backend (research → implementation).
 
@@ -36,19 +36,19 @@ Headless agents for automated code modification, testing, and repository operati
 Terminal/IDE assistants for pair programming or semi-autonomous development.
 
 - [Claude Code](https://github.com/anthropics/claude-code) ![Last Commit](https://img.shields.io/github/last-commit/anthropics/claude-code) — Terminal TUI, plan mode, MCP tools; also works via GitHub mentions & IDEs.
-- [OpenAI Codex CLI](https://github.com/openai/codex) ![Last Commit](https://img.shields.io/github/last-commit/openai/codex) — Local coding agent CLI with GitHub Actions integration.
+- [OpenAI Codex CLI](https://github.com/openai/codex) ![Last Commit](https://img.shields.io/github/last-commit/openai/codex) — Lightweight coding agent that runs in your terminal.
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) ![Last Commit](https://img.shields.io/github/last-commit/google-gemini/gemini-cli) — Google’s open-source terminal AI agent; ReAct loop + built-in tools + MCP.
 - [GitHub Copilot CLI](https://github.com/github/copilot-cli) ![Last Commit](https://img.shields.io/github/last-commit/github/copilot-cli) — Agentic CLI for build/edit/debug/PR flows; integrates GitHub context & MCP.
 - [OpenCode](https://github.com/sst/opencode) ![Last Commit](https://img.shields.io/github/last-commit/sst/opencode) — Provider-agnostic terminal coding agent with LSP; great for Neovim users.
-- [Aider](https://github.com/paul-gauthier/aider) ![Last Commit](https://img.shields.io/github/last-commit/paul-gauthier/aider) — Git-integrated chat to edit code across multiple files.
+- [Aider](https://github.com/Aider-AI/aider) ![Last Commit](https://img.shields.io/github/last-commit/Aider-AI/aider) — AI pair programming in your terminal; git-integrated chat to edit code across multiple files.
 - [Open Interpreter](https://github.com/openinterpreter/open-interpreter) ![Last Commit](https://img.shields.io/github/last-commit/openinterpreter/open-interpreter) — Local agent that runs Python/JS/Shell; terminal chat.
-- [Roo Code (VS Code)](https://github.com/RooVetGit/Roo-Code) ![Last Commit](https://img.shields.io/github/last-commit/RooVetGit/Roo-Code) — VS Code autonomous agent with strong MCP ecosystem.
+- [Roo Code (VS Code)](https://github.com/RooCodeInc/Roo-Code) ![Last Commit](https://img.shields.io/github/last-commit/RooCodeInc/Roo-Code) — A whole dev team of AI agents in VS Code; strong MCP ecosystem.
 - [Cline](https://github.com/cline/cline) ![Last Commit](https://img.shields.io/github/last-commit/cline/cline) — VS Code agent to create/edit files, run commands, browse.
 - [Cursor](https://www.cursor.sh/) — AI-first editor with inline edits & chat.
 - [Windsurf](https://windsurf.com/) — Editor focused on agentic workflows.
-- [Continue](https://github.com/continuedev/continue) ![Last Commit](https://img.shields.io/github/last-commit/continuedev/continue) — Open-source autopilot for VS Code/JetBrains/CLI; custom agents, MCP.
-- [Potpie](https://github.com/potpie-ai/potpie) ![Last Commit](https://img.shields.io/github/last-commit/potpie-ai/potpie) — Context-aware assistant with codebase understanding.
-- [Kode](https://github.com/shareAI-lab/Kode) ![Last Commit](https://img.shields.io/github/last-commit/shareAI-lab/Kode) — Community-driven Claude Code–style assistant.
+- [Continue](https://github.com/continuedev/continue) ![Last Commit](https://img.shields.io/github/last-commit/continuedev/continue) — Build and run custom agents across IDE, terminal, and CI; supports VS Code/JetBrains with MCP.
+- [Potpie](https://github.com/potpie-ai/potpie) ![Last Commit](https://img.shields.io/github/last-commit/potpie-ai/potpie) — Prompt-to-Agent: create custom engineering agents with codebase understanding.
+- [Kode](https://github.com/shareAI-lab/Kode) ![Last Commit](https://img.shields.io/github/last-commit/shareAI-lab/Kode) — Open agent coding CLI; supports GLM, Qwen, Kimi, DeepSeek and more.
 - [Factory.ai](https://factory.ai/) — Enterprise agent platform; “Droids” automate refactors/migrations/incidents.
 
 ---
@@ -57,15 +57,15 @@ Terminal/IDE assistants for pair programming or semi-autonomous development.
 
 SDKs and frameworks for building code-aware agents with composable tools.
 
-- [OpenAI Agents SDK (Python)](https://github.com/openai/openai-agents-python) ![Last Commit](https://img.shields.io/github/last-commit/openai/openai-agents-python) — Primitives: Agent, Tools, **Handoffs**, **Guardrails**, **Sessions**; tracing.
+- [OpenAI Agents SDK (Python)](https://github.com/openai/openai-agents-python) ![Last Commit](https://img.shields.io/github/last-commit/openai/openai-agents-python) — Lightweight framework for multi-agent workflows; primitives for Agents, Tools, Handoffs, Guardrails & Sessions.
 - [OpenAI Agents SDK (JS/TS)](https://github.com/openai/openai-agents-js) ![Last Commit](https://img.shields.io/github/last-commit/openai/openai-agents-js)
 - [PydanticAI](https://github.com/pydantic/pydantic-ai) ![Last Commit](https://img.shields.io/github/last-commit/pydantic/pydantic-ai) — Type-safe agents, structured outputs, schema validation & observability.
-- [AutoGen](https://github.com/microsoft/autogen) ![Last Commit](https://img.shields.io/github/last-commit/microsoft/autogen) — Multi-agent conversations + Docker-based code executors.
-- [LangGraph](https://github.com/langchain-ai/langgraph) ![Last Commit](https://img.shields.io/github/last-commit/langchain-ai/langgraph) — Controllable agent graphs with state & persistence.
+- [AutoGen](https://github.com/microsoft/autogen) ![Last Commit](https://img.shields.io/github/last-commit/microsoft/autogen) — Programming framework for agentic AI; multi-agent conversations + Docker-based code executors.
+- [LangGraph](https://github.com/langchain-ai/langgraph) ![Last Commit](https://img.shields.io/github/last-commit/langchain-ai/langgraph) — Build resilient language agents as graphs with state & persistence.
 - [CrewAI](https://github.com/crewAIInc/crewAI) ![Last Commit](https://img.shields.io/github/last-commit/crewAIInc/crewAI) — Role-based, task/flow oriented multi-agent framework.
-- [AgentScope](https://github.com/agentscope-ai/agentscope) ![Last Commit](https://img.shields.io/github/last-commit/agentscope-ai/agentscope) — Developer-centric AOP; runtime, studio, sandboxed tools.
+- [AgentScope](https://github.com/agentscope-ai/agentscope) ![Last Commit](https://img.shields.io/github/last-commit/agentscope-ai/agentscope) — Agent-Oriented Programming (AOP) for building LLM applications; includes runtime, studio & sandboxed tools.
 - [Griptape](https://github.com/griptape-ai/griptape) ![Last Commit](https://img.shields.io/github/last-commit/griptape-ai/griptape) — Modular agents, tools, memory; good production ergonomics.
-- [Haystack Agents](https://github.com/deepset-ai/haystack) ![Last Commit](https://img.shields.io/github/last-commit/deepset-ai/haystack) — GitHub tools for PRs/edits; solid integrations.
+- [Haystack Agents](https://github.com/deepset-ai/haystack) ![Last Commit](https://img.shields.io/github/last-commit/deepset-ai/haystack) — AI orchestration framework for RAG, agents, and LLM pipelines; GitHub integration for PRs/edits.
 - [smolagents](https://github.com/huggingface/smolagents) ![Last Commit](https://img.shields.io/github/last-commit/huggingface/smolagents) — “Agents that think in code”, supports E2B/Modal/Docker.
 
 ---
@@ -113,7 +113,7 @@ Run agents automatically on issues/PRs or scheduled tasks.
 ### Integration Resources
 - [E2B + LangGraph](https://e2b.dev/docs/hello-world/langgraph)
 - [OpenHands Headless Mode](https://docs.all-hands.dev/openhands/usage/run-openhands/headless-mode)
-- [ToolHive](https://github.com/stacklok/toolhive) ![Last Commit](https://img.shields.io/github/last-commit/stacklok/toolhive) — One-click discovery/deployment of common MCP servers.
+- [ToolHive](https://github.com/stacklok/toolhive) ![Last Commit](https://img.shields.io/github/last-commit/stacklok/toolhive) — Easy, secure deployment of MCP servers with one-click discovery.
 
 ### Similar Lists
 - [sourcegraph/awesome-code-ai](https://github.com/sourcegraph/awesome-code-ai)
