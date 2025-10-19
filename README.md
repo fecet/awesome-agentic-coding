@@ -40,7 +40,10 @@ Terminal/IDE assistants for pair programming or semi-autonomous development.
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) ![Last Commit](https://img.shields.io/github/last-commit/google-gemini/gemini-cli) — Google’s open-source terminal AI agent; ReAct loop + built-in tools + MCP.
 - [GitHub Copilot CLI](https://github.com/github/copilot-cli) ![Last Commit](https://img.shields.io/github/last-commit/github/copilot-cli) — Agentic CLI for build/edit/debug/PR flows; integrates GitHub context & MCP.
 - [OpenCode](https://github.com/sst/opencode) ![Last Commit](https://img.shields.io/github/last-commit/sst/opencode) — Provider-agnostic terminal coding agent with LSP; great for Neovim users.
+- [avante.nvim](https://github.com/yetone/avante.nvim) ![Last Commit](https://img.shields.io/github/last-commit/yetone/avante.nvim) — Use your Neovim like using Cursor AI IDE!
 - [Aider](https://github.com/Aider-AI/aider) ![Last Commit](https://img.shields.io/github/last-commit/Aider-AI/aider) — AI pair programming in your terminal; git-integrated chat to edit code across multiple files.
+- [Goose](https://github.com/block/goose) ![Last Commit](https://img.shields.io/github/last-commit/block/goose) — Open source, extensible AI agent that goes beyond code suggestions; install, execute, edit, and test with any LLM.
+- [Auggie](https://github.com/augmentcode/auggie) ![Last Commit](https://img.shields.io/github/last-commit/augmentcode/auggie) — AI agent that brings Augment Code's power to the terminal.
 - [Open Interpreter](https://github.com/openinterpreter/open-interpreter) ![Last Commit](https://img.shields.io/github/last-commit/openinterpreter/open-interpreter) — Local agent that runs Python/JS/Shell; terminal chat.
 - [Roo Code (VS Code)](https://github.com/RooCodeInc/Roo-Code) ![Last Commit](https://img.shields.io/github/last-commit/RooCodeInc/Roo-Code) — A whole dev team of AI agents in VS Code; strong MCP ecosystem.
 - [Cline](https://github.com/cline/cline) ![Last Commit](https://img.shields.io/github/last-commit/cline/cline) — VS Code agent to create/edit files, run commands, browse.
@@ -78,6 +81,7 @@ Tooling to safely give agents capabilities (files, Python, browser, etc.) or iso
 - [Reference MCP Servers](https://github.com/modelcontextprotocol/servers) ![Last Commit](https://img.shields.io/github/last-commit/modelcontextprotocol/servers) — e.g. Filesystem server.
 - [pydantic/mcp-run-python](https://github.com/pydantic/mcp-run-python) ![Last Commit](https://img.shields.io/github/last-commit/pydantic/mcp-run-python) — Run Python in a sandbox via MCP.
 - [FastMCP](https://github.com/jlowin/fastmcp) ![Last Commit](https://img.shields.io/github/last-commit/jlowin/fastmcp) — Decorator-first way to ship MCP servers in Python.
+- [VectorCode](https://github.com/Davidyz/VectorCode) ![Last Commit](https://img.shields.io/github/last-commit/Davidyz/VectorCode) — Code repository indexing tool with RAG & embeddings; available as MCP server and Neovim plugin.
 - [E2B sandboxes](https://e2b.dev/) — Managed, isolated cloud sandboxes for code execution (with LangGraph integration, see below).
 - [AutoGen DockerCommandLineCodeExecutor](https://microsoft.github.io/autogen/0.2/docs/reference/coding/docker_commandline_code_executor/) — Run model-generated code in Docker.
 - [OpenHands Local Runtime](https://docs.all-hands.dev/openhands/usage/runtimes/local) — Local (unsandboxed) runtime; also supports headless/CLI.
