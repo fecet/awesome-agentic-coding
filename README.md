@@ -36,8 +36,9 @@ Headless agents for automated code modification, testing, and repository operati
 Terminal/IDE assistants for pair programming or semi-autonomous development.
 
 - [Claude Code](https://github.com/anthropics/claude-code) ![Last Commit](https://img.shields.io/github/last-commit/anthropics/claude-code) — Terminal TUI, plan mode, MCP tools; also works via GitHub mentions & IDEs.
+- [Amp CLI](https://ampcode.com/manual#cli) — Sourcegraph's code assistant with interactive & execute modes, MCP support, auto-detection of IDE diagnostics; supports shell mode and stream JSON for programmatic integration.
 - [OpenAI Codex CLI](https://github.com/openai/codex) ![Last Commit](https://img.shields.io/github/last-commit/openai/codex) — Lightweight coding agent that runs in your terminal.
-- [Gemini CLI](https://github.com/google-gemini/gemini-cli) ![Last Commit](https://img.shields.io/github/last-commit/google-gemini/gemini-cli) — Google’s open-source terminal AI agent; ReAct loop + built-in tools + MCP.
+- [Gemini CLI](https://github.com/google-gemini/gemini-cli) ![Last Commit](https://img.shields.io/github/last-commit/google-gemini/gemini-cli) — Google's open-source terminal AI agent; ReAct loop + built-in tools + MCP.
 - [GitHub Copilot CLI](https://github.com/github/copilot-cli) ![Last Commit](https://img.shields.io/github/last-commit/github/copilot-cli) — Agentic CLI for build/edit/debug/PR flows; integrates GitHub context & MCP.
 - [OpenCode](https://github.com/sst/opencode) ![Last Commit](https://img.shields.io/github/last-commit/sst/opencode) — Provider-agnostic terminal coding agent with LSP; great for Neovim users.
 - [avante.nvim](https://github.com/yetone/avante.nvim) ![Last Commit](https://img.shields.io/github/last-commit/yetone/avante.nvim) — Use your Neovim like using Cursor AI IDE!
